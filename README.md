@@ -1,5 +1,5 @@
 # SQL Week 2 Assignment
-
+------------------------------------------
 Name: Maureen Jepkoech Kipkosgei
 Date: 22-07-2026
 Database: PostgreSQL
